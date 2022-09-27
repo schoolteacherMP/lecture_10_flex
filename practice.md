@@ -8,3 +8,7 @@
 5. Присвоить стили для background-color: red, blue, green
 6. .div1, .div2, .div3 присвоить размеры высоты и ширины 50px
 7. Выровнять цифры в квадратах по центру (justify-content: center; align-items: center;)
+8. Добавить в html разметку следующий блок
+![image](https://user-images.githubusercontent.com/113675674/192535345-b1992ee5-51c6-4560-8c55-270aefb5b0f8.png)
+9. Определить стили согласно финальному макету:
+![image](https://user-images.githubusercontent.com/113675674/192535528-09ce6691-1db3-4b87-aa33-eeb26099c3b5.png)
